@@ -1,0 +1,21 @@
+1704724559772	geckodriver	INFO	Listening on 127.0.0.1:53259
+1704724562937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53260" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sfpoffo\\AppData\\Local\\Temp\\rust_mozprofileGvh5wM"
+1705063166204	geckodriver	INFO	Listening on 127.0.0.1:50414
+1705063169283	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50415" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sfpoffo\\AppData\\Local\\Temp\\rust_mozprofileSIdxUm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705063170370	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1705063170625	Marionette	INFO	Listening on port 50429
+WebDriver BiDi listening on ws://127.0.0.1:50415
+Read port: 50429
+1705063171161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50415/devtools/browser/be6cdb81-14da-4085-a1ad-6fe3b0e0a700
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/zneroqcg3fuolytnnlpn2s27, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/aero-v1/sc/h/zneroqcg3fuolytnnlpn2s27, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1705063201466	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
